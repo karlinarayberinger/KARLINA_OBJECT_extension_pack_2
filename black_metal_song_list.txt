@@ -1,0 +1,21 @@
+/**
+ * file: black_metal_song_list.txt
+ * type: plain-text
+ * date: 26_SEPTEMBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
+
+"Nimeämätön" by "Aethyrick" (https://aethyrick.bandcamp.com/album/kolme-veljest).
+
+"Echoes On A Windswept Plain" by "Tjaktjadálvve" (https://tjaktjadalvve.bandcamp.com/album/echoes-on-a-windswept-plain).
+
+"Fortabt" by "Tugt" (https://tugt.bandcamp.com/album/ved-lysets-oph-r).
+
+"Iconoclasm" by "A Pale December" (https://apaledecember.bandcamp.com/track/iconoclasm).
+
+"Carrion" by "No Longer Human" (https://nlhdivision.bandcamp.com/album/carrion).
+
+"A Throne and Altar Red" by "Xirgan" (https://xirgan.bandcamp.com/album/a-clash-of-darkened-sorcery-vol-1).
+
+"Autumn's Dawn, Winter's Darkness" by "Fathomage" (https://fathomage.bandcamp.com/album/autumns-dawn-winters-darkness).
