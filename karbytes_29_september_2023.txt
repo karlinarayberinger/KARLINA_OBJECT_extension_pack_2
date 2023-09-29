@@ -1,0 +1,15 @@
+/** 
+ * file: karbytes_29_september_2023.txt 
+ * type: plain-text 
+ * date: 29_SEPTEMBER_2023 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+Between midnight on 28_SEPTEMBER_2023 and midnight on 30_SEPTEMBER_2023, the following events occurred (in the order they were listed starting with 0 and ending with 1):
+
+event_0: karbytes burned three M_DISC read-only optical discs with the same folder named karbytes_autumn_2023_28_september_2023 (containing the five zip files which are enumerated on the web page named M_DISC_karbytes_autumn_2023_data_files_list on the website named Karbytes For Life Blog dot WordPress dot Com) such that each of those discs was named karbytes_au_2023 (and that name was originally intended by karbytes to be named karbytes_autumn_2023 but the maximum character length for the optical disc name permitted by the Windows 10 disc burner application was sixteen).
+
+event_1: karbytes copied the contents of each of the finished karbytes_au_2023 M_DISCs to its Kubuntu desktop to verify that the files were burned to the discs as intended. 
+
+(Note that, at the time this note (karbytes_29_september_2023.txt) was added to this public karbytes-created GitHub repository (KARLINA_OBJECT_extension_pack_2), karbytes has a total of six completed M_DISCs inside of a ziplock rigid plastic compact disc container).
