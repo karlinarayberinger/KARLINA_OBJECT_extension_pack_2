@@ -1,0 +1,13 @@
+/** 
+ * file: karbytes_01_october_2023.txt 
+ * type: plain-text 
+ * date: 01_OCTOBER_2023 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+ On the day this note was created, karbytes shared the following two Singularity Hub article links on karbytes' Twitter page and on karbytes' Minds pag:
+
+ https://singularityhub.com/2023/10/01/why-well-see-fewer-generic-ai-chatbots-like-chatgpt-in-the-future/
+
+ https://singularityhub.com/2023/09/29/these-bacteria-eat-plastic-waste-and-then-transform-it-into-useful-products/
