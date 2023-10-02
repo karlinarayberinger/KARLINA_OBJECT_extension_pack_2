@@ -1,12 +1,12 @@
 /** 
  * file: karbytes_01_october_2023.txt 
  * type: plain-text 
- * date: 01_OCTOBER_2023 
+ * date: 02_OCTOBER_2023 
  * author: karbytes 
  * license: PUBLIC_DOMAIN 
  */
 
-On the day this note was created, karbytes shared the following two Singularity Hub article links on karbytes' Twitter page and on karbytes' Minds page:
+On the day this note was created (01_OCTOBER_2023), karbytes shared the following two Singularity Hub article links on karbytes' Twitter page and on karbytes' Minds page:
 
 https://singularityhub.com/2023/09/29/these-bacteria-eat-plastic-waste-and-then-transform-it-into-useful-products/
 
@@ -17,3 +17,9 @@ https://singularityhub.com/2023/10/01/why-well-see-fewer-generic-ai-chatbots-lik
 Later addition:
 
 On the day this note was created karbytes created a new plain-text file named jobs_applied_to.txt in a private karbytes-created GitHub repository named karbytes_basement_0 to keep track of details of each job application which karbytes submits such as job title, pay rate, company name, and workplace location (and that file already contains at least one job application for a local production associate job). karbytes intends to only submit job applications for jobs which karbytes is able to feasibly commute to via bicycle and/or walking instead of jobs which require commuting via BART or car out of town (because longer commutes are more time-consuming, expensive, and logistically difficult (which means there are many hidden costs to having to compensate for not being able to easily commute between work and home base camp such as having to sleep in random places other than home due to BART train stations being closed near work start or finish times)).
+
+* * *
+
+Next Day Addition: 
+
+Within 24 hours of creating this note, I applied for several jobs within the Dublin/Pleasanton region and,later, within the Newark/Fremont region. I have decided to allow my job search area to encompass the entire BART-able Bay Area (but mostly the two main regions I already listed because I am most familiar with and comfortable with camping and working in those regions).
