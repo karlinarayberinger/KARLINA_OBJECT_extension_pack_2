@@ -1,0 +1,13 @@
+/** 
+ * file: karbytes_04_october_2023.txt 
+ * type: plain-text 
+ * date: 04_OCTOBER_2023 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+Technology is what I live in.
+
+Science is my occupation.
+
+Philosophy is what I am.
