@@ -1,7 +1,7 @@
 /**
  * file: black_metal_song_list.txt
  * type: plain-text
- * date: 29_SEPTEMBER_2023
+ * date: 05_OCTOBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -23,3 +23,6 @@
 "The Far Bank at the River Styx" by "PANZERFAUST" (https://panzerfaust.bandcamp.com/album/the-suns-of-perdition-chapter-iii-the-astral-drain).
 
 "Horrors of a Withered Dimension " by "Bloodstained Ground" (https://bloodstainedground.bandcamp.com/album/horrors-of-a-withered-dimension).
+
+"Nadejście" by "Voidfire" (https://voidfire.bandcamp.com/album/w-cienie).
+
