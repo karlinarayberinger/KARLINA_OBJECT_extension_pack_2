@@ -11,3 +11,17 @@ operand : operator :: object : relationship_between_objects.
 * * *
 
 operand : operator :: physical_object : abstract_object.
+
+* * *
+
+As a means of maximizing the likelihood that I experience what I want (particularly by adhering to my personal rules of conduct), I sometimes enable myself to deviate from such rules because doing so seems to remove some of the incentive to, after a sufficiently long period of exerting effort to constantly obey each of those rules while the costs of doing so seem to be outweighing the benefits of doing so, rebel against self imposed limits which seem to cost me energy in order to maintain and to resist defying.
+
+Why bother having personal ethical standards if I do not always adhere to them? I have preferences which clearly distinguish what I want to experience more of from what I want to experience less of. If I adhere to those standards more than 80% of the time, then I feel like I am asserting my preferences (in terms of how I conduct myself (which is based on how I expect the universe to react to what I anticipate doing)) but not to the extent that I am being too rigidly dogmatic to enjoy my life and to revise my worldview in response to my knowledge changing.
+
+I believe that, as a human being, it is very important to use very specific, precise, and "executable" wording when defining preferences in written form and to keep such writing accessible on "the cloud" for safe keeping and universal access. Even writing down a prose-poem about some mundane sensual experience I recently had is a way of communicating with nature what I wish to remember instead of to forget and what kinds of things I have expressed a preference for more of (because I do hypothesize and feel that it is strategic for me to pretend that I attract more of what I want into existence by focusing on it instead of on something else though even that is a bit myopic, presumptuous, and maybe even megalomaniacal).
+
+(I still feel compelled to adhere to the ontological position that free will is entirely illusory (within the context of a deterministic universe) and that every person is equally powerless to effect any outcome (or perhaps I am willing to entertain the notion that a person can voluntarily take actions towards attaining some prefered condition of existence but that person cannot voluntarily choose what that person finds preferable)).
+
+(I feel compelled to publicly promote the views of free will which I expressed in the web page named AGENCY in the website named Karlina Object dot WordPress dot Com (and that web page posits that agency (i.e. free will (i.e. volition)) is a virtual phenomenon which can be measured and which is directly proportional to universe modeling accuracy and coordination between the respective agent's hardware and software (such that agency could be increased or decreased much the way a laptop computer's processing speed increases as more central processing unit cores are added to that computer's internal hardware circuitry)).
+
+Bottom line (asumption, premise, argument, claim, assertion, declaration, proposition): I have preferences and prefer to obey my preferences no less than 80% of the time (until I decide that it is preferable to change my preferences).
