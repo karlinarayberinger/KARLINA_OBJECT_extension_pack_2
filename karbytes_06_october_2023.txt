@@ -1,0 +1,13 @@
+/** 
+ * file: karbytes_06_october_2023.txt 
+ * type: plain-text 
+ * date: 06_OCTOBER_2023 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+operand : operator :: object : relationship_between_objects.
+
+* * *
+
+operand : operator :: physical_object : abstract_object.
