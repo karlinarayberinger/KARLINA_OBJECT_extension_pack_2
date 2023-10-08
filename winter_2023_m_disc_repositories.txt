@@ -8,12 +8,12 @@
 
 Three M_DISCs will tentatively be burned to store each of the following GitHub repository zip files before 01_JANUARY_2024.
 
-R0: https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2
+R0: https://github.com/karlinarayberinger/KARLINA_OBJECT_winter_2023_starter_pack /**(public)*/
 
-R1: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG
+R1: https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2 /**(public)*/
 
-R2: https://github.com/karlinarayberinger/karbytes_basement_0/
+R2: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG /**(public)*/
 
-R3: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG
+R3: https://github.com/karlinarayberinger/karbytes_basement_0/ /**(private)*/
 
-R4: https://github.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack
+R4: https://github.com/karlinarayberinger/SOUND_TRACK_LOOPER_private /**(private)*/
