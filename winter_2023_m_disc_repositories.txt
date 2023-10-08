@@ -1,0 +1,19 @@
+/** 
+  * file: winter_2023_m_disc_repositories.txt
+  * type: plain-text 
+  * date: 08_OCTOBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+Three M_DISCs will tentatively be burned to store each of the following GitHub repository zip files before 01_JANUARY_2024.
+
+R0: https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2
+
+R1: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG
+
+R2: https://github.com/karlinarayberinger/karbytes_basement_0/
+
+R3: https://github.com/karlinarayberinger/KARBYTES_FOR_LIFE_BLOG
+
+R4: https://github.com/karlinarayberinger/KARLINA_OBJECT_autumn_2023_starter_pack
