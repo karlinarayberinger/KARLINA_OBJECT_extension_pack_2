@@ -1,7 +1,7 @@
 /**
  * file: black_metal_song_list.txt
  * type: plain-text
- * date: 05_OCTOBER_2023
+ * date: 08_OCTOBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -25,4 +25,7 @@
 "Horrors of a Withered Dimension " by "Bloodstained Ground" (https://bloodstainedground.bandcamp.com/album/horrors-of-a-withered-dimension).
 
 "Nadejście" by "Voidfire" (https://voidfire.bandcamp.com/album/w-cienie).
+
+"Thanatophobia" by "Edoma" (https://edoma.bandcamp.com/track/thanatophobia).
+
 
