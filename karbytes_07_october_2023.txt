@@ -36,6 +36,6 @@ Technology (specifically, the computer simulation I mentioned in the previous pa
 
 It may be the case that there are indefinitely many parallel versions of me each inside of its own solipsistic universe (which is fundamentally a computer simulation using discrete rather than continuous values for constituting objects with mass). Note that discrete (rather than continuous) signals can be verbatim encoded as sequences of binary digits which two information processing machines each decode to produce the same qualitative value.
 
-It may be the case that there exist infinitely many parallel universes (which are each simulations being run on digital computers) such that each of those simulated versions of me (and that me's respective universe) is a simulation which some parallel me built.
+It may be the case that there exist infinitely many parallel universes (which are each a simulation being run on a digital computer) such that each of those simulated versions of me (and that me's respective universe) is a simulation which some parallel me built.
 
 In order for time to exist, it seems that there needs to be some kind of (self aware) information processing agent experiencing exactly one space-time continuum. I think that time is entirely subjective rather than objective and that, from the multiverse's (most macroscopic) perspective, all moments are eternally frozen (i.e. changeless) and eternally instantiated.
