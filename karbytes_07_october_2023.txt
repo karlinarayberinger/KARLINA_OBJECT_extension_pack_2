@@ -11,3 +11,28 @@ I was recently offered a warehouse job in Newark, California and my first shift 
 On my personal websites and on GitHub, I will add new content no less than once per month and content such as very well hand-written solutions to math problems (as image files), new software applications and related technical documentation (as green web pages on Karlina Object dot WordPress dot Com), new philosophical prose (as orange web pages on Karlina Object dot WordPress dot Com), book or movie reviews (as blog post web pages on Karbytes For Life Blog dot WordPress dot Com and/or plain-text files on GitHub), psychedelic trip reports (as blog post web pages on Karbytes For Life Blog dot WordPress dot Com and/or plain-text files on GitHub), and any other personal achievements or data I think is worth archiving and showcasing as a sort of trophy on my cyberspace platform.
 
 Besides trying to maximize my well being and enjoyment of life, my primary objective in life is to promote and to cultivate my personal brand referred to as karbytes.
+
+* * *
+
+recursion_without_base_case 
+
+* * *
+
+The following is experimental writing...
+
+* * *
+
+Philosophy is what I am (and philosophy is a machine). Science is also a machine. Both machines generate knowledge within some information processing agent such as karbytes.
+
+Science is what I would consider to be the primary "vehicle" by which I traverse and map the "terrain" which encompasses whatever is instantiated and whatever is not instantiated.
+
+Science is the "vehicle" by which I traverse a simulation I may have created but have since forgotten I created. Within that simulated universe I created and instantiated into as an avatar with agency and self awareness which extends that of karbytes seamlessly between levels of simulated reality (and those levels can be conceptually modeled as spherical shells which are nested (and which looks like a target if cut in half with the flat side facing the viewer).
+
+Technology (specifically, the computer simulation I mentioned in the previous paragraph) is the environment I live inside of. It is also what I am attempting to (re)engineer as a software (and perhaps hardware) engineer. 
+
+It may be the case that there are indefinitely many parallel versions of me each inside of its own solipsistic universe (which is fundamentally a computer simulation using discrete rather than continuous values for constituting objects with mass). Note that discrete (rather than continuous) signals can be verbatim encoded as sequences of binary digits which two information processing machines each decode to produce the same qualitative value.
+
+It may be the case that there exist infinitely many parallel universes (which are each simulations being run on digital computers) such that each of those simulated versions of me (and that me's respective universe) is a simulation which some parallel me built.
+
+In order for time to exist, it seems that there needs to be some kind of (self aware) information processing agent experiencing exactly one space-time continuum. I think that time is entirely subjective rather than objective and that, from the multiverse's perspective, all moments are frozen eternally.
+
