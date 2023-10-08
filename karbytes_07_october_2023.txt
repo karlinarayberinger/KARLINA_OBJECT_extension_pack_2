@@ -18,11 +18,12 @@ I intend for the following to occur: for the duration of the time in which I am 
 
 * * *
 
-recursion_without_base_case 
+The following is experimental writing; poetic stream of consciousness...
 
 * * *
 
-The following is experimental writing...
+recursion_without_base_case 
+
 
 * * *
 
