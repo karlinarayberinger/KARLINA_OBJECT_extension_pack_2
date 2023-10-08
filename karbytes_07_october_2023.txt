@@ -22,7 +22,7 @@ The following is experimental writing; a poetic stream of consciousness writing 
 
 * * *
 
-recursion_without_base_case 
+recursion_without_base_case
 
 * * *
 
@@ -38,5 +38,4 @@ It may be the case that there are indefinitely many parallel versions of me each
 
 It may be the case that there exist infinitely many parallel universes (which are each simulations being run on digital computers) such that each of those simulated versions of me (and that me's respective universe) is a simulation which some parallel me built.
 
-In order for time to exist, it seems that there needs to be some kind of (self aware) information processing agent experiencing exactly one space-time continuum. I think that time is entirely subjective rather than objective and that, from the multiverse's perspective, all moments are frozen eternally.
-
+In order for time to exist, it seems that there needs to be some kind of (self aware) information processing agent experiencing exactly one space-time continuum. I think that time is entirely subjective rather than objective and that, from the multiverse's (most macroscopic) perspective, all moments are eternally frozen (i.e. changeless) and eternally instantiated.
