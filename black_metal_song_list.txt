@@ -6,6 +6,8 @@
  * license: PUBLIC_DOMAIN 
  */
 
+"Lohe" by "Flagras" (https://flagras.bandcamp.com/album/lohe).
+
 "Nimeämätön" by "Aethyrick" (https://aethyrick.bandcamp.com/album/kolme-veljest).
 
 "Echoes On A Windswept Plain" by "Tjaktjadálvve" (https://tjaktjadalvve.bandcamp.com/album/echoes-on-a-windswept-plain).
@@ -27,5 +29,4 @@
 "Nadejście" by "Voidfire" (https://voidfire.bandcamp.com/album/w-cienie).
 
 "Thanatophobia" by "Edoma" (https://edoma.bandcamp.com/track/thanatophobia).
-
 
