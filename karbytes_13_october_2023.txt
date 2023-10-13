@@ -1,10 +1,10 @@
-/** 
-  * file: karbytes_13_october_2023.txt
-  * type: plain-text 
-  * date: 13_OCTOBER_2023 
-  * author: karbytes 
-  * license: PUBLIC_DOMAIN
-  */
+/**
+ * file: karbytes_13_october_2023.txt
+ * type: plain-text
+ * date: 13_OCTOBER_2023
+ * author: karbytes
+ * license: PUBLIC_DOMAIN 
+ */
 
 A project which I would like to do as soon as possible (ideally but not necessarily during the weekend while renting a motel room and after having sufficient funds from working at my new warehouse job in Newark) is purchase a high quality journal and archival quality black ink to write the entire text context of Karlina Object dot WordPress dot Com into that journal. I already placed an order for three more blank M_DISCs onto which to enscribe all of the digital files which comprise the GitHub repository named KARLINA_OBJECT_winter_2023_starter_pack (in addition to a few other GitHub repositories), but having the most essential content (i.e. intellectual property) which comprises the karbytes empire in some kind of hard visually-accessible (instead of encoded as sequences of binary sy,bols which require a spcial type of information processing machine and respective logic to decode into the phenomenally identical content (i.e. intellectual property) gives me peace of mind to work towards implementing at what I deem to be a reasonable speed and overall cost.
 
@@ -12,6 +12,4 @@ I look forward to having my own hard copy book (albeit abridged) non cyberspace 
 
 * * *
 
-Perhaps a better idea for me to implement would be simply paying (at a public copymat) to have the text content which I would otherwise transcribe meticulously by hand into a paper journal (and for me to stow that paper inside of plastic sleeves which I keep in a binder). I will bring a USB flash drive with all the respective files on it and have them each printed one time.
-
-
+Perhaps a better idea for me to implement would be simply paying (at a public copymat) to have the text content which I would otherwise transcribe meticulously by hand into a paper journal (and for me to stow that paper inside of plastic sleeves which I keep in a binder). I will bring a USB flash drive with all the respective files on it and have them each printed (as human-readable text etched in black ink on white rectangular pieces of paper which are 8 inches in width and 11 inches in height) one time. I will likely place at least one of the three aforementioned M_DISCs (in its original jewel case) into the Karlina Object binder.
