@@ -2,7 +2,7 @@
  * file: sound_track_looper.js
  * type: JavaScript
  * author: karbytes
- * date: 16_OCTOBER_2023
+ * date: 17_OCTOBER_2023
  * license: PUBLIC_DOMAIN
  */
 
@@ -90,7 +90,7 @@ function load_web_page() {
 }
 
 /**
- * Assume that this funciton is called by the event of the start_sound_track_looper() button being clicked.
+ * Assume that this function is called by the event of the start_sound_track_looper() button being clicked.
  * 
  * Hide the start_sound_track_looper() button from the web page after that button is clicked.
  * 
