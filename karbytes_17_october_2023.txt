@@ -1,0 +1,13 @@
+/** 
+  * file: karbytes_17_october_2023.txt
+  * type: plain-text 
+  * date: 17_OCTOBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+  Today karbytes shared the following two articles as social media posts on karbytes' social media accounts with Twitter, Minds, LinkedIn, and Patreon.
+
+  article_0: https://thereader.mitpress.mit.edu/is-consciousness-everywhere/
+
+  article_1: https://thereader.mitpress.mit.edu/hallucinating-ais-sound-creative-but-lets-not-celebrate-being-wrong/
