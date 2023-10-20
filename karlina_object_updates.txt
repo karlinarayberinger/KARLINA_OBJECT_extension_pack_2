@@ -1,7 +1,7 @@
 /**
  * file: karlina_object_updates.txt
  * type: plain-text
- * date: 19_OCTOBER_2023
+ * date: 20_OCTOBER_2023
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -47,6 +47,8 @@ On 17_OCTOBER_2023, karbytes updated the web page named POINTERS_AND_ARRAYS of t
 On 18_OCTOBER_2023, karbytes updated the web page named NUMBERS of the website named Karlina Object dot WordPress dot Com. 
 
 On 19_OCTOBER_2023, karbytes created the web page named CAUSALITY of the website named Karlina Object dot WordPress dot Com. 
+
+On 20_OCTOBER_2023, karbytes updated the web page named NUMBERS of the website named Karlina Object dot WordPress dot Com. 
 
 
 
