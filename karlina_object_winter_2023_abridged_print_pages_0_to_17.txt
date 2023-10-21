@@ -39,8 +39,6 @@ ________________
 
 
 
-
-
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karlina_object_wordpress_logo_orange_box_drawing_2020.png
 
 
@@ -50,6 +48,9 @@ ________________
 
 
 WEBSITE_DIRECTORY
+
+
+PAGE_30: CAUSALITY
 
 
 PAGE_29: METAPHYSICS
@@ -140,8 +141,6 @@ PAGE_1: PUBLIC_DOMAIN
 
 
 PAGE_0: START_PAGE
-
-
 
 
 ________________
@@ -254,8 +253,6 @@ This website was established on 03_APRIL_2020.
 
 
 ________________
-
-
 
 
 
@@ -3051,8 +3048,6 @@ ________________
 
 
 INFINITY: the (hypothetical or actual) instantiation of limitlessly many copies of exactly one pattern or the (hypothetical or actual) instantiation of limitlessly many unique patterns.
-
-
 
 
 ________________
