@@ -11,3 +11,7 @@ Within the past 24 hours I have been offered a seasonal (i.e. temporary but poss
 * * *
 
 21_OCTOBER_2023: In the video I recorded with my phone and uploaded to Instagram and to the GitHub repository which contains this journal entry on 20_OCTOBER_2023 there is a black box on top of the shelf behind where I am sitting as I play the drums. That black box is an electronic drum machine which my father's father built which has an analog knob for controlling amplitude and an analog knob for controlling tempo. Though my grandfather is no longer alive, that drum machine he built is still in functional condition and I still retain a memory of him from my early childhood of him showing a trick with magnets which I think helped to pique my interest in electromagnetism.
+
+* * *
+
+21_OCTOBER_2023: I found it quite satisfying to play two instances of my SOUND_TRACK_LOOPER application such that one of them plays karbytes_drums_20_october_2023.mp3 while the other application instance plays karbytes_guitar_16_october_2023.mp3. It sounds like a slightly randomized song each time the loops are played simultaneously due to the fact that those tracks are neither the same temporal lengths nor were they intended to sync up with each other in terms of rhythm,  melody, or style.
