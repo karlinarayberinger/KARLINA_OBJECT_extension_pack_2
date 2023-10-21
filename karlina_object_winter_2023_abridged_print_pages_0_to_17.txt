@@ -4,6 +4,9 @@
 [Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the website named Karlina Object dot WordPress dot Com is featured also in this document].
 
 
+website_address: https://karlinaobject.wordpress.com/
+
+
 The final draft version of this document was published on 21_OCTOBER_2023.
 ________________
 
