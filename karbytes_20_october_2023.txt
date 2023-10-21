@@ -1,0 +1,9 @@
+/** 
+  * file: karbytes_20_october_2023.txt
+  * type: plain-text 
+  * date: 20_OCTOBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+Within the past 24 hours I have been offered a seasonal (i.e. temporary but possibly able to be extended to a "permanent" position) job offer (if the hiring company approves of my background check results) as a night shift package handler at a warehouse for approximately $20 per hour. I have been working on a PDF file which functions as a plain-text abridged version of my primary website (which is named Karlina Object dot WordPress dot Com) using Google Drive to create the document (using "free" cloud-based software which is similar to Microsoft Word). When the document is complete, I intend to download a PDF version of that document and a plain-text version of that document to my desktop computer and then upload those files to the GitHub repository which houses this journal file. Then I plan on getting that entire PDF printed (onto white paper which is 11 inches tall and 8.5 inches wide using black ink and 11 point sans serif font) and putting each of those pages in their intended order inside of a three-ring binder. Then I will burn the next three M_DISCs I have with zip files of several of my GitHub repositories (i.e. the ones which were modified since the last time I burned M_DISCs with zip files of several of my GitHub repositories).
