@@ -1,0 +1,13 @@
+/** 
+  * file: karbytes_21_october_2023.txt
+  * type: plain-text 
+  * date: 21_OCTOBER_2023 
+  * author: karbytes 
+  * license: PUBLIC_DOMAIN
+  */
+
+Warning: in the file named karlina_object_winter_2023_abridged_print_pages_0_to_17.pdf and in the file named karlina_object_winter_2023_abridged_print_pages_0_to_17.txt in the GitHub repository which contains this file, there is at least one error in the PUBLIC_DOMAIN section (and that error is the duplication of the section of that web page content which defines the term OPEN_SOURCE).
+
+At the time this file is published as a web page on the website named Karbytes For Life Blog dot WordPress dot Com (and shared as a social media post on karbytes' Twitter, Minds, LinkedIn, and Patreon profiles), a complete paper print out of the file named karlina_object_winter_2023_abridged_print_pages_0_to_17.pdf and a complete paper print out the file named karlina_object_winter_2023_abridged_print_pages_18_to_30.pdf exist in their own respective three-ring binders and such that each of the pieces of paper in those print outs is encased inside of transparent plastic sheets. 
+
+Also at the time this file is published as a web page on the website named Karbytes For Life Blog dot WordPress dot Com (and shared as a social media post on karbytes' Twitter, Minds, LinkedIn, and Patreon profiles), three M_DISC optica discs have been burned with the zip file contents of each of the following GitHub repositories (as each of those GitHub repositories were as of their final commits for the day 22_OCTOBER_2023 in terms of Pacific Standard Time).
